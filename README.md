@@ -1,5 +1,7 @@
 https://github.com/thorwebdev/google-signin/tree/docs/update-readme-and-guides
 
+https://www.youtube.com/watch?v=vojHmGUGUGc&list=PLV6IkjCNr7lMlNeTFrDWzOHS4iWB3Ec0z&index=4&t=1202s&pp=gAQBiAQB
+
 keytool -keystore ./android/app/debug.keystore -list -v
 keystore paswword have to be android
 
