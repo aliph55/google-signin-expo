@@ -1,0 +1,6 @@
+<resources>
+  <string name="app_name">googlesignin1</string>
+  <string name="expo_splash_screen_resize_mode" translatable="false">contain</string>
+  <string name="expo_splash_screen_status_bar_translucent" translatable="false">false</string>
+  <string name="server_client_id">585822882944-6ohnt8bv21n5nqdbn0pgkua7c7ita747.apps.googleusercontent.com</string>
+</resources>
